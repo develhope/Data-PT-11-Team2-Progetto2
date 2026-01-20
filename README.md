@@ -46,10 +46,6 @@ Il dataset è stato sottoposto a un processo di data cleaning, che include:
     -Tokenizzazione e rimozione delle stopwords
 
   
-*Fonte:* [Our World Data - Life Expectancy](https://ourworldindata.org/life-expectancy)  
-- *Contenuto principale:*
-- 193 Paesi, anni 1900–2023  
-- Variabili chiave: Life expectancy (men), Life expectancy (women), GDP, Schooling, Status, Total expenditure, BMI, ecc.
 
 *DATASET PER TEST:*
 ---
