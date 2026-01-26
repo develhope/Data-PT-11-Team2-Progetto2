@@ -9,9 +9,9 @@ con l’obiettivo di classificare automaticamente l’opinione degli utenti e te
 ##  Team Members
 | Nome | Ruolo | Competenze principali |
 |------|--------|-----------------------|
-| Francesca Amarena | Lead Developer | Data Cleaning, NLP, Model Training |
-| Matteo Gagliardi | Team Manager |  Data Preprocessing, Exploratory Data Analysis, Model Evaluation|
-
+| Francesca Amarena | Lead Developer | Data Cleaning, NLP, Exploratory Data Analysis, Model Training |
+| Matteo Gagliardi | Team Manager |  Data Cleaning and Preprocessing, Exploratory Data Analysis, Model Evaluation|
+ 
 ---
 
 ##  Obiettivi del progetto
@@ -32,7 +32,7 @@ Inoltre, il dataset offre un’elevata quantità di dati testuali non strutturat
 ##  Dataset
 *DATASET PER ADDESTRAMENTO:*
 
-*Fonte:* Kaggle – Amazon Product Reviews  
+*Fonte:* Kaggle – Amazon Product Reviews -> https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews  
 *Contenuto principale:*
 - Recensioni di prodotti Amazon
 
@@ -53,8 +53,8 @@ Il dataset è stato sottoposto a un processo di data cleaning, che include:
 ##  Struttura del progetto
 Il progetto è stato organizzato in fasi successive, dalla preparazione dei dati fino al testing finale del modello:
 
-*Francesca*: Pulizia del dataset, feature extraction, addestramento del modello
-*Matteo*: Analisi esplorativa dei dati, preprocessing, valutazione del modello e test su dataset esterno
+*Francesca*: Analisi esplorativa dei dati, valutazione del modello, feature extraction, addestramento del modello
+*Matteo*: Analisi esplorativa dei dati, preprocessing, pulizia del dataset e test su dataset esterno
 
 ## Conclusioni
 Il progetto dimostra come l’analisi automatica del sentiment possa supportare le aziende nell’interpretazione delle recensioni dei clienti, trasformando grandi volumi di feedback testuale in insight utili.
